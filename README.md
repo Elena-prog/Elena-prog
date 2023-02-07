@@ -21,7 +21,7 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-prog&layout=compact&theme=graywhite  )](https://github.com/anuraghazra/github-readme-stats)
    
  ### Мои контакты:
-Telegram: t.me/elts77
+Tg: t.me/elts77
 
 Email: elts77@gmail.com
   
