@@ -1,4 +1,7 @@
-### Привет, меня зовут Елена 👋
+<!-- ### Привет, меня зовут Елена 👋 -->
+
+<h2 align="center">Привет, меня зовут Елена 👋</h2>
+
 - :mortar_board:Прошла курсы web-разработки в Яндекс.Практикуме
 
 - :muscle: Самостоятельно совершенствую свои навыки в JS и React
@@ -6,12 +9,23 @@
 - :dart: Хочу стать frontend-разработчиком
 
 
----
-### Cтек:
-
-HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git
+<!-- ### Cтек: -->
+<h2 align="center">Cтек</h2>
 
 <br>
+
+<!-- <p>HTML &#8226; CSS &#8226; JavaScript &#8226; React &#8226; Node.js &#8226; Express &#8226; MongoDB &#8226; Git</p> -->
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express
+- MongoDB
+- Git
+
+
 
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -28,9 +42,11 @@ HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git
      
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-prog&layout=compact&theme=graywhite  )](https://github.com/anuraghazra/github-readme-stats)
    
- ---
  
- ### Контакты:
+ 
+<!--  ### Контакты: -->
+ 
+ <h2 align="center">Контакты</h2>
 Tg: t.me/elts77
 
 Email: elts77@gmail.com
