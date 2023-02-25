@@ -18,6 +18,8 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-prog&layout=compact&theme=graywhite  )](https://github.com/anuraghazra/github-readme-stats)
  
+ [![codewars](https://www.codewars.com/users/Eeelena/badges/small)](https://www.codewars.com/users/Eeelena) 
+ 
 <!--  ### Контакты: -->
  
  <h2 align="center">Мои контакты</h2>
